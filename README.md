@@ -1,4 +1,5 @@
 # PassportJS
-fully working PassportJS
+Fully working PassportJS.
 
-change DATABASE USERNAME/PASSWORD in the directory config/keys.js
+# For making it operable
+Change <b>DATABASE USERNAME and PASSWORD</b> in the directory <b>config/keys.js</b>.
